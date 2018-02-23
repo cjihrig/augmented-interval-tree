@@ -3,8 +3,8 @@
 [![Current Version](https://img.shields.io/npm/v/augmented-interval-tree.svg)](https://www.npmjs.org/package/augmented-interval-tree)
 [![Build Status via Travis CI](https://travis-ci.org/continuationlabs/augmented-interval-tree.svg?branch=master)](https://travis-ci.org/continuationlabs/augmented-interval-tree)
 ![Dependencies](http://img.shields.io/david/continuationlabs/augmented-interval-tree.svg)
+[![belly-button-style](https://img.shields.io/badge/eslint-bellybutton-4B32C3.svg)](https://github.com/continuationlabs/belly-button)
 
-[![belly-button-style](https://cdn.rawgit.com/continuationlabs/belly-button/master/badge.svg)](https://github.com/continuationlabs/belly-button)
 
 Augmented interval tree implementation with no dependencies.
 
